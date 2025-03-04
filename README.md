@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgur.com/a/Jrcmr3F"  />
+<img align="right" height="150" src="https://imgur.com/a/Jrcmr3F">
 
 ###
 
@@ -22,11 +22,5 @@
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Roxicaro/Roxicaro/output/snake.svg" alt="Snake animation" />
 
 ###
