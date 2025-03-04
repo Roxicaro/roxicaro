@@ -12,11 +12,11 @@
 <img align="right" height="150" src="https://i.imgur.com/IzVGlRY.gif"  />
 
 ###
-
+<h3 align="left">I code in:</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="30" alt="gamemakerstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="45" alt="gamemakerstudio logo"  />
 </div>
 
 ###
