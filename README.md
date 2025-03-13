@@ -26,5 +26,3 @@
 </div>
 
 ###
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=roxicaro&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
