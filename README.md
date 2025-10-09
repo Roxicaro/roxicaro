@@ -7,6 +7,7 @@
 </div>
 
 ###
+[![An image of @roxicaro's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/roxicaro)](https://holopin.io/@roxicaro)
 
 <img align="right" height="150" src="https://i.imgur.com/IzVGlRY.gif"  />
 
