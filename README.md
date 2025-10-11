@@ -7,14 +7,9 @@
 </div>
 
 ###
-[![Holopin Badge](https://www.holopin.io/hacktoberfest2025/userbadge/cmgjlhz7j0017la04e40fzazl)](https://www.holopin.io/hacktoberfest2025/userbadge/cmgjlhz7j0017la04e40fzazl)
-
-###
-<h3>I code in:</h3>
-<div align="left">
-<h3>> Python:<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  /><img width="12" />
-<br>> GameMaker: <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="25" alt="gamemakerstudio logo"  />
-</div></h3>
+<a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgjlhz7j0017la04e40fzazl">
+  <img src="https://assets.holopin.io/hf2025levels/lvl0-astronaut.webp" width="150" alt="Holopin Astronaut Badge">
+</a>
 
 ###
 
