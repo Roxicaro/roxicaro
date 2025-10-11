@@ -7,9 +7,11 @@
 </div>
 
 ###
-[![An image of @roxicaro's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/roxicaro)](https://holopin.io/@roxicaro)
-
-<img align="right" height="150" src="https://i.imgur.com/IzVGlRY.gif"  />
+<p align="center">
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgjlhz7j0017la04e40fzazl">
+    <img width="250" src="https://www.holopin.io/hacktoberfest2025/userbadge/cmgjlhz7j0017la04e40fzazl" alt="Holopin Badge">
+  </a>
+</p>
 
 ###
 <h3>I code in:</h3>
