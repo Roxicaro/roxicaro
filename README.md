@@ -7,11 +7,7 @@
 </div>
 
 ###
-<p align="center">
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgjlhz7j0017la04e40fzazl">
-    <img width="250" src="https://www.holopin.io/hacktoberfest2025/userbadge/cmgjlhz7j0017la04e40fzazl" alt="Holopin Badge">
-  </a>
-</p>
+[![Holopin Badge](https://www.holopin.io/hacktoberfest2025/userbadge/cmgjlhz7j0017la04e40fzazl)](https://www.holopin.io/hacktoberfest2025/userbadge/cmgjlhz7j0017la04e40fzazl)
 
 ###
 <h3>I code in:</h3>
