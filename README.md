@@ -10,7 +10,7 @@
 
 <div align="left" style="display: flex; align-items: center; gap: 10px;">
   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgjlhz7j0017la04e40fzazl" target="_blank">
-    <img src="https://assets.holopin.io/hf2025levels/lvl0-astronaut.webp" width="150" alt="Holopin Astronaut Badge">
+    <img src="https://assets.holopin.io/hf2025levels/lvl2-astronaut.webp" width="150" alt="Holopin Astronaut Badge">
   </a>
   <img src="https://i.imgur.com/IzVGlRY.gif" width="170" height="150" alt="fun gif">
 </div>
