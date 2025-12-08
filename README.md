@@ -1,9 +1,8 @@
 <h2 align="left">Hi there!</h2>
 <div align="left" style="display: flex; align-items: center; gap: 10px;">
   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgjlhz7j0017la04e40fzazl" target="_blank">
-    <img src="https://assets.holopin.io/hf2025levels/lvl2-astronaut.webp" width="150" alt="Holopin Astronaut Badge">
-  </a>
-  <img src="https://i.imgur.com/IzVGlRY.gif" width="170" height="150" alt="fun gif">
+    <img src="https://assets.holopin.io/hf2025levels/lvl2-astronaut.webp" width="150" alt="Holopin Astronaut Badge"></a>
+  <img src="https://i.imgur.com/Wdsv9WZ.gif" width="200" height="150" alt="Sonic running">
 </div>
 
 ###
@@ -15,7 +14,9 @@
 </div>
 
 ## Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat-square&logo=xbox&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![Static Badge](https://img.shields.io/badge/Nextflow-green?style=flat-square&logo=nextflow&logoColor=%230082C9&color=%2398fac4) ![Static Badge](https://img.shields.io/badge/Gamemaker-white?style=flat-square&logo=gamemaker&logoColor=%23ffffff&color=%23000000)
+
+
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Roxicaro&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Roxicaro&theme=transparent&hide_border=true)<br/>
