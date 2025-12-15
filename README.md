@@ -18,7 +18,6 @@
 
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Roxicaro&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Roxicaro&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Roxicaro&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
@@ -26,6 +25,17 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Roxicaro&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Roxicaro&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🎮 Featured Project - Terminal Descent (Steam)
+<div align="left">
+  <a href="https://store.steampowered.com/app/3923210/Terminal_Descent/" target="_blank"><img src="https://img.shields.io/badge/Wishlist%20on%20Steam-1b2838?style=for-the-badge&logo=steam&logoColor=white" height="35"/></a>
+  <a href="https://playtester.io/terminal-descent" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20the%20Demo-Playtester-blue?style=for-the-badge" height="35"/>
+  </a>
+</div>
+
+An incremental mining game that runs **entirely in the terminal**, featuring ASCII graphics, upgrade system, save/load mechanics, and a terminal-based user interface. Fully developed in Python without the use of any external game engine. 
+
+![Terminal Descent Gameplay](https://i.imgur.com/LIv30qZ.gif)
+> Built solo as a long-term project. Demo available, full release in development.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
