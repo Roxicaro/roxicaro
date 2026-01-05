@@ -20,10 +20,10 @@
 
 ## GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Roxicaro&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Roxicaro&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Roxicaro&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide_contributor_rank=false)
 
 ### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Roxicaro&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+![Roxicaro's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Roxicaro&hide_contributor_rank=false&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
 ## 🎮 Featured Project - Terminal Descent (Steam)
