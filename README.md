@@ -17,12 +17,13 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![Static Badge](https://img.shields.io/badge/Nextflow-green?style=flat-square&logo=nextflow&logoColor=%230082C9&color=%2398fac4) ![Static Badge](https://img.shields.io/badge/Gamemaker-white?style=flat-square&logo=gamemaker&logoColor=%23ffffff&color=%23000000) \
 ![Static Badge](https://img.shields.io/badge/Bash-green?logo=gnubash&logoColor=%23000000&color=%234EAA25) ![Static Badge](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=%23000000&color=%234169E1)
 
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Roxicaro&layout=compact&theme=tokyonight)
 
 ## GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Roxicaro&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Roxicaro&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide_contributor_rank=false)
 
-### Top Contributed Repo
+## Top Contributed Repo
 ![Roxicaro's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Roxicaro&hide_contributor_rank=false&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
